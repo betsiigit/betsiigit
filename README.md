@@ -1,14 +1,20 @@
-# Hi 👋, I'm Betselot Tadele
+<h1 align="center">Hi 👋, I'm Betselot Tadele</h1>
 
-### 💻 A passionate Frontend & Full-Stack Developer
+<h3 align="center">💻 A passionate Frontend & Full-Stack Developer</h3>
 
-I'm a Software Developer who enjoys building modern, responsive, and user-friendly web applications. I love learning new technologies and turning ideas into real projects.
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=betsiigit&label=Profile%20views&color=0e75b6&style=flat" alt="betsiigit" />
+</p>
+
+### 👩‍💻 About Me
 
 * 🔭 I’m currently working on **web applications**
 * 🌱 I’m currently learning **Next.js, React & TypeScript**
 * 💬 Ask me about **Frontend, React, JavaScript & Web Development**
 * 📫 How to reach me: **[betselottadele357@gmail.com](mailto:betselottadele357@gmail.com)**
-* ⚡ Fun fact: **I love learning new technologies and building things from scratch 😄**
+* ⚡ Fun fact: **I am funny 😄**
 
 ---
 
