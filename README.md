@@ -121,8 +121,5 @@ I'm a Software Developer who enjoys building modern, responsive, and user-friend
   <img src="https://streak-stats.demolab.com?user=betsiigit&theme=tokyonight&hide_border=true" />
 </p>
 
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=betsiigit&layout=compact&theme=tokyonight&hide_border=true)
 
 ⭐ Thanks for visiting my profile!
