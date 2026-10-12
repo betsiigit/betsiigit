@@ -110,5 +110,12 @@ I'm a Software Developer who enjoys building modern, responsive, and user-friend
 🧩 I love solving development problems
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=betsiigit&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=betsiigit&layout=compact&theme=tokyonight&hide_border=true)
 
 ⭐ Thanks for visiting my profile!
